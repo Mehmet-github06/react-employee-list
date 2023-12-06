@@ -10,7 +10,7 @@ This project is a simple web application for managing the information of employe
 
 ## Live Project Link
 
-You can access the live version of the project [here](https://employee-list-delta.vercel.app/).
+You can access the live version of the project [here](https://react-employee-list-nine.vercel.app/).
 
 ```
 Employee List (folder)
